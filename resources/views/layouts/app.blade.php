@@ -36,13 +36,13 @@
 <!-- Footer -->
 <footer class="py-3 mt-4">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="/" class="nav-link px-2 text-muted">Inicio</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Blog</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Precios</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Sobre Nosotros</a></li>
+      <li class="nav-item"><a href="/" class="nav-link px-2 text-white">Inicio</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-white">Blog</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-white">Precios</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-white">FAQs</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-white">Sobre Nosotros</a></li>
     </ul>
-    <p class="text-center text-muted">© 2023 iUrban, Inc</p>
+    <p class="text-center text-black">© 2023 iUrban, Inc</p>
   </footer>
 <script src="{{ mix('js/app.js') }}"></script>
 
